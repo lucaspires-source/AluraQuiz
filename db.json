@@ -1,28 +1,64 @@
 {
-    "bg": "https://i.pinimg.com/originals/27/b7/e1/27b7e1258e4662a226bbd3549e785bf5.jpg",
-    "title": "Quiz de Zelda",
-    "description": "Teste os seus conhecimentos sobre Zelda e sua confusa timeline",
+    "bg": "https://cdn.britannica.com/89/204689-050-0C22EBDE/Alexandria-Egypt-reward-competitions-Bridesmaids-Competition-participation-September-12-2014.jpg",
+    "title": "Quiz do Oscar",
+    "description": "Teste os seus conhecimentos de amante da sétima arte",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://images.squarespace-cdn.com/content/v1/55f32473e4b029b54a7228d2/1579046980606-NMCUF2WETMF2XBZWC6GK/ke17ZwdGBToddI8pDm48kDFgITcRoterXoQdllT5ciUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcV7ZyRJyI8bwZiMJRrgPaAKqUaXS0tb9q_dTyNVba_kClt3J5x-w6oTQbPni4jzRa/Rent+Oscar-nominated+films+and+Academy+Award+winners+from+DVD+Netflix",
+        "title": "Qual o filme teve o maior número de indicações?",
         "description": "Essa é pra aquecer",
-        "answer": 2,
+        "answer": 0,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Titanic (1998)",
+          "Ben-Hur (1960)",
+          "E o Vento Levou (1939)",
+          "Avatar (2009)"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://i.pinimg.com/originals/da/1b/0e/da1b0e20e170999a1f2a5b810e5a2364.jpg",
+        "title": "Quando aconteceu a primeira edição do prêmio?",
+        "description": "Agora começamos",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+          "16 de maio de 1929",
+          "2 de Fevereiro de 1931",
+          "25 de março de 1927",
+          "2 de janeiro de 1941"
+        ]
+      },
+      {
+        "image": "https://www.clubedapoltrona.com.br/wp-content/uploads/2018/10/calvin-candie-capa.jpg",
+        "title": "Leonardo DiCaprio é o ator com mais indicações ao Oscar de Melhor Ator",
+        "description": "injustamente assassinado em Titanic",
+        "answer": 1,
+        "alternatives": [
+          "Verdadeiro",
+          "Falso"
+      
+        ]
+      },
+      {
+        "image": "https://images.squarespace-cdn.com/content/v1/54813413e4b0034aade3a0bc/1447008990349-17S5FJ4UMDP95FI1MUXG/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/yHtAWRPQUqK3uWHhdgX56j8NwcI.jpg?format=1000w",
+        "title": "Qual desses filmes não foi indicado ao Oscar de Melhor Filme de Animação?",
+        "description": "Um tipo de cinema injustiçado",
+        "answer": 3,
+        "alternatives": [
+          "A Viagem de Chihiro (2001)",
+          "Anomalisa (2015)",
+          "Carros (2006)",
+          "A Bela e A Fera (1991)"
+        ]
+      },
+      {
+        "image": "https://www.planocritico.com/wp-content/uploads/2021/01/photo5166037009691682968.jpg",
+        "title": "O que é isso,Companheiro? (1998) foi o primeiro filme brasileiro indicado ao prêmio de melhor filme estrangeiro",
+        "description": "THIS IS BRAZIL",
+        "answer": 1,
+        "alternatives": [
+          "Verdadeiro",
+          "Falso"
+      
         ]
       }
     ],
@@ -31,8 +67,8 @@
     ],
     "theme": {
       "colors": {
-        "primary": "#673ab7",
-        "secondary": "#ff1744",
+        "primary": "#8a1c1c",
+        "secondary": "#ff8f00",
         "mainBg": "#171B35",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
