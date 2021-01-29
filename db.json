@@ -5,8 +5,7 @@
     "questions": [
       {
         "image": "https://images.squarespace-cdn.com/content/v1/55f32473e4b029b54a7228d2/1579046980606-NMCUF2WETMF2XBZWC6GK/ke17ZwdGBToddI8pDm48kDFgITcRoterXoQdllT5ciUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcV7ZyRJyI8bwZiMJRrgPaAKqUaXS0tb9q_dTyNVba_kClt3J5x-w6oTQbPni4jzRa/Rent+Oscar-nominated+films+and+Academy+Award+winners+from+DVD+Netflix",
-        "title": "Qual o filme teve o maior número de indicações?",
-        "description": "Essa é pra aquecer",
+        "title": "Qual desses filmes teve o maior número de indicações?",
         "answer": 0,
         "alternatives": [
           "Titanic (1998)",
@@ -18,7 +17,6 @@
       {
         "image": "https://i.pinimg.com/originals/da/1b/0e/da1b0e20e170999a1f2a5b810e5a2364.jpg",
         "title": "Quando aconteceu a primeira edição do prêmio?",
-        "description": "Agora começamos",
         "answer": 0,
         "alternatives": [
           "16 de maio de 1929",
@@ -30,7 +28,6 @@
       {
         "image": "https://www.clubedapoltrona.com.br/wp-content/uploads/2018/10/calvin-candie-capa.jpg",
         "title": "Leonardo DiCaprio é o ator com mais indicações ao Oscar de Melhor Ator",
-        "description": "injustamente assassinado em Titanic",
         "answer": 1,
         "alternatives": [
           "Verdadeiro",
@@ -41,7 +38,6 @@
       {
         "image": "https://images.squarespace-cdn.com/content/v1/54813413e4b0034aade3a0bc/1447008990349-17S5FJ4UMDP95FI1MUXG/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/yHtAWRPQUqK3uWHhdgX56j8NwcI.jpg?format=1000w",
         "title": "Qual desses filmes não foi indicado ao Oscar de Melhor Filme de Animação?",
-        "description": "Um tipo de cinema injustiçado",
         "answer": 3,
         "alternatives": [
           "A Viagem de Chihiro (2001)",
@@ -53,7 +49,6 @@
       {
         "image": "https://www.planocritico.com/wp-content/uploads/2021/01/photo5166037009691682968.jpg",
         "title": "O que é isso,Companheiro? (1998) foi o primeiro filme brasileiro indicado ao prêmio de melhor filme estrangeiro",
-        "description": "THIS IS BRAZIL",
         "answer": 1,
         "alternatives": [
           "Verdadeiro",
