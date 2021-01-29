@@ -1,14 +1,14 @@
 /* eslint-disable array-callback-return */
 /* eslint-disable react/prop-types */
 import React, { useState, useEffect } from 'react';
-import db from '../db.json';
-import Widget from '../src/components/Widget';
-import QuizLogo from '../src/components/QuizLogo';
-import QuizBackground from '../src/components/QuizBackground';
-import QuizContainer from '../src/components/QuizContainer';
-import Button from '../src/components/Button';
-import Spinner from '../src/components/Spinner';
-import AlternativesForm from '../src/components/AlternativesForm';
+import db from '../../db.json';
+import Widget from '../../src/components/Widget';
+import QuizLogo from '../../src/components/QuizLogo';
+import QuizBackground from '../../src/components/QuizBackground';
+import QuizContainer from '../../src/components/QuizContainer';
+import Button from '../../src/components/Button';
+import Spinner from '../../src/components/Spinner';
+import AlternativesForm from '../../src/components/AlternativesForm';
 
 const ResultWidget = ({ results }) => (
   <Widget>
